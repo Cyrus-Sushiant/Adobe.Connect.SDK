@@ -15,6 +15,8 @@ The functionality covered: User Account management (Single Sign On), Meetings/We
 
 ## Available for
 * .NetCore 3.1
+* .NetCore 5.0
+* .NetCore 6.0
 
 # Install
 ```
